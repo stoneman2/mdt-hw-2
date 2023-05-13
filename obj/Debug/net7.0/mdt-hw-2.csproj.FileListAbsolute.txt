@@ -1,0 +1,15 @@
+D:\PC Moving Project\Homework\COLLEGE\mdt-hw-2\bin\Debug\net7.0\mdt-hw-2.exe
+D:\PC Moving Project\Homework\COLLEGE\mdt-hw-2\bin\Debug\net7.0\mdt-hw-2.deps.json
+D:\PC Moving Project\Homework\COLLEGE\mdt-hw-2\bin\Debug\net7.0\mdt-hw-2.runtimeconfig.json
+D:\PC Moving Project\Homework\COLLEGE\mdt-hw-2\bin\Debug\net7.0\mdt-hw-2.dll
+D:\PC Moving Project\Homework\COLLEGE\mdt-hw-2\bin\Debug\net7.0\mdt-hw-2.pdb
+D:\PC Moving Project\Homework\COLLEGE\mdt-hw-2\obj\Debug\net7.0\mdt-hw-2.csproj.AssemblyReference.cache
+D:\PC Moving Project\Homework\COLLEGE\mdt-hw-2\obj\Debug\net7.0\mdt-hw-2.GeneratedMSBuildEditorConfig.editorconfig
+D:\PC Moving Project\Homework\COLLEGE\mdt-hw-2\obj\Debug\net7.0\mdt-hw-2.AssemblyInfoInputs.cache
+D:\PC Moving Project\Homework\COLLEGE\mdt-hw-2\obj\Debug\net7.0\mdt-hw-2.AssemblyInfo.cs
+D:\PC Moving Project\Homework\COLLEGE\mdt-hw-2\obj\Debug\net7.0\mdt-hw-2.csproj.CoreCompileInputs.cache
+D:\PC Moving Project\Homework\COLLEGE\mdt-hw-2\obj\Debug\net7.0\mdt-hw-2.dll
+D:\PC Moving Project\Homework\COLLEGE\mdt-hw-2\obj\Debug\net7.0\refint\mdt-hw-2.dll
+D:\PC Moving Project\Homework\COLLEGE\mdt-hw-2\obj\Debug\net7.0\mdt-hw-2.pdb
+D:\PC Moving Project\Homework\COLLEGE\mdt-hw-2\obj\Debug\net7.0\mdt-hw-2.genruntimeconfig.cache
+D:\PC Moving Project\Homework\COLLEGE\mdt-hw-2\obj\Debug\net7.0\ref\mdt-hw-2.dll
